@@ -11,7 +11,7 @@ import SwiftUI
 struct CoreDataTestTeamsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TeamView()
         }
     }
 }
